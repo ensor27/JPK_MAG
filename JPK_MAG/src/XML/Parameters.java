@@ -9,7 +9,7 @@ import java.util.Calendar;
 public class Parameters {
 
 	private static String PathToSave= "//192.168.90.203/Logistyka/Listy";
-	private static String PathToSaveHours= "//192.168.90.203/Logistyka/JPK_MAG";
+	private static String PathToSaveHours= "//192.168.90.203/Logistyka/Bookkeeping/JPK_MAG";
 	private static String PathToDB = "//192.168.90.203/Logistyka/Tosia/Projekty JAVA";
 	
 	public static String getPathToSave(){
